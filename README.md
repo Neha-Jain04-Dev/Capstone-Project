@@ -1,7 +1,7 @@
 # Capstone Project-India_Crime
 # Phase 1: 
 # Data Collection/preparation part:- 
-In this phase, there is a excel file "IndiaStateWise-UT2001-2011Data" which contains the record of State/UT wise Male and Female Population data, Male and Female Literacy rate data and Area (Km^2) from year 2001 t0 2011. The Sources links are given below fromwhere the data is taken: 
+In this phase, there is a excel file "IndiaStateWise-UT2001-2011Data" which contains the record of State/UT wise Male and Female Population data, Male and Female Literacy rate data and Area (Km2) from year 2001 t0 2011. The Sources links are given below fromwhere the data is taken: 
 1. https://www.census2011.co.in/literacy.php
 2. https://www.census2011.co.in/states.php
 3. http://cyberjournalist.org.in/census/cenindia.html
